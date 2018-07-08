@@ -19,8 +19,12 @@ from plugins import *
 
 # Edit this settings
 class BotSettings(BaseSettings):
-    ("user""aqvaweko@yandex.ru", "weko159753"),USERS = (
-
+  USERS = (
+("group", "ТУТ ТОКЕН ГРУППЫ",),
+...
+("user", "aqvaweko@yandex.ru", "weko159753",),
+...
+("user", "ТОКЕН ПОЛЬЗОВАТЕЛЯ",),
     )
 
     PROXIES = (
