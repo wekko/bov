@@ -20,7 +20,7 @@ from plugins import *
 # Edit this settings
 class BotSettings(BaseSettings):
     USERS = (
-        ("aqvaweko@yandex.ru", "weko159753"),
+  "user"      ("aqvaweko@yandex.ru", "weko159753"),
     )
 
     PROXIES = (
