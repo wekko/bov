@@ -22,7 +22,7 @@ class BotSettings(BaseSettings):
   USERS = (
 ("group", "ТУТ ТОКЕН ГРУППЫ",),
 ...
-("user", "aqvaweko@yandex.ru", "weko159753",),
+("user", "aqv@yandex.ru", "3",),
 ...
 ("user", "ТОКЕН ПОЛЬЗОВАТЕЛЯ",),
     )
